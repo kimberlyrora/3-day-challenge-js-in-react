@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/3-day-challenge-js-in-react/static/css/main.8d31ee6b.chunk.css",
-    "main.js": "/3-day-challenge-js-in-react/static/js/main.26975e86.chunk.js",
-    "main.js.map": "/3-day-challenge-js-in-react/static/js/main.26975e86.chunk.js.map",
-    "runtime~main.js": "/3-day-challenge-js-in-react/static/js/runtime~main.ab42a794.js",
-    "runtime~main.js.map": "/3-day-challenge-js-in-react/static/js/runtime~main.ab42a794.js.map",
-    "static/js/2.c2695c00.chunk.js": "/3-day-challenge-js-in-react/static/js/2.c2695c00.chunk.js",
-    "static/js/2.c2695c00.chunk.js.map": "/3-day-challenge-js-in-react/static/js/2.c2695c00.chunk.js.map",
-    "index.html": "/3-day-challenge-js-in-react/index.html",
-    "precache-manifest.a7dcfa5a5f23b2b1db3ae61064f05e8f.js": "/3-day-challenge-js-in-react/precache-manifest.a7dcfa5a5f23b2b1db3ae61064f05e8f.js",
-    "service-worker.js": "/3-day-challenge-js-in-react/service-worker.js",
-    "static/css/main.8d31ee6b.chunk.css.map": "/3-day-challenge-js-in-react/static/css/main.8d31ee6b.chunk.css.map"
+    "main.css": "/3-day-challenge-js-in-react/playing/static/css/main.8d31ee6b.chunk.css",
+    "main.js": "/3-day-challenge-js-in-react/playing/static/js/main.615720c1.chunk.js",
+    "main.js.map": "/3-day-challenge-js-in-react/playing/static/js/main.615720c1.chunk.js.map",
+    "runtime~main.js": "/3-day-challenge-js-in-react/playing/static/js/runtime~main.290e51e4.js",
+    "runtime~main.js.map": "/3-day-challenge-js-in-react/playing/static/js/runtime~main.290e51e4.js.map",
+    "static/js/2.c2695c00.chunk.js": "/3-day-challenge-js-in-react/playing/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/3-day-challenge-js-in-react/playing/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/3-day-challenge-js-in-react/playing/index.html",
+    "precache-manifest.cb77792253171399fba955aa1cc9cad9.js": "/3-day-challenge-js-in-react/playing/precache-manifest.cb77792253171399fba955aa1cc9cad9.js",
+    "service-worker.js": "/3-day-challenge-js-in-react/playing/service-worker.js",
+    "static/css/main.8d31ee6b.chunk.css.map": "/3-day-challenge-js-in-react/playing/static/css/main.8d31ee6b.chunk.css.map"
   }
 }
